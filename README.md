@@ -21,7 +21,7 @@ npm run dev
 
 ## Home Page
 
-![App Screenshot]([https://github.com/juman101/jacksmovie/blob/master/screenshotdemo/WhatsApp%20Image%202023-08-27%20at%2011.27.19%20(1).jpeg?raw=true](https://github.com/panwar-26/movix/blob/main/demo/WhatsApp%20Image%202023-08-27%20at%2011.51.10.jpg?raw=true))
+![App Screenshot](https://github.com/panwar-26/movix/blob/main/demo/WhatsApp%20Image%202023-08-27%20at%2011.51.10.jpg?raw=true)
 
 
 
