@@ -1,8 +1,56 @@
-# React + Vite
+# movix-app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Website - [MovieMingle](https://movixwebapp.netlify.app/)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### How to Run Locally
+Run the below command to clone the repo locally
+
+git clone https://github.com/panwar-26/movix.git
+ 
+
+### To run the application, run below commands 
+
+npm install
+npm run dev
+
+
+
+### Glimpse :
+
+
+## Home Page
+
+![App Screenshot]([https://github.com/juman101/jacksmovie/blob/master/screenshotdemo/WhatsApp%20Image%202023-08-27%20at%2011.27.19%20(1).jpeg?raw=true](https://github.com/panwar-26/movix/blob/main/demo/WhatsApp%20Image%202023-08-27%20at%2011.51.10.jpg?raw=true))
+
+
+
+
+##  Genres / Categories / sort
+
+#### One can sort according to genre as well as popularity , release date ,etc.
+![App Screenshot](https://github.com/panwar-26/movix/blob/main/demo/WhatsApp%20Image%202023-08-27%20at%2011.02.04.jpg?raw=true)
+
+![App Screenshot](https://github.com/panwar-26/movix/blob/main/demo/WhatsApp%20Image%202023-08-27%20at%2011.02.21.jpg?raw=true)
+
+
+## Movie Details
+
+#### All sorts of info regarding movie such as cast , ratings , official videos .
+![App Screenshot](https://github.com/panwar-26/movix/blob/main/demo/WhatsApp%20Image%202023-08-27%20at%2011.00.53.jpg?raw=true).
+
+![App Screenshot](https://github.com/panwar-26/movix/blob/main/demo/WhatsApp%20Image%202023-08-27%20at%2011.00.17.jpg?raw=true)
+
+## Trailer 
+
+####  Trailer of movies  can be played 
+
+![App Screenshot](https://github.com/panwar-26/movix/blob/main/demo/WhatsApp%20Image%202023-08-27%20at%2011.01.33.jpg?raw=true)
+
+
+
+
+
+## Authors
+
+- [Manish panwar](https://www.linkedin.com/in/manishpanwar26/)
