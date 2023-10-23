@@ -51,6 +51,6 @@ npm run dev
 
 
 
-## Authors
+## Author
 
 - [Manish panwar](https://www.linkedin.com/in/manishpanwar26/)
